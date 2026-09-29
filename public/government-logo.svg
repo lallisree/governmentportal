@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <!-- Outer Ring with Gold Border -->
+  <circle cx="120" cy="120" r="112" fill="#0F172A" stroke="#1E3A8A" stroke-width="4"/>
+  <circle cx="120" cy="120" r="104" fill="#1E293B" stroke="#F59E0B" stroke-width="2.5" stroke-dasharray="6 4"/>
+  <circle cx="120" cy="120" r="98" fill="#0B132B"/>
+  
+  <!-- Laurel / Wreath -->
+  <path d="M 60 170 C 45 130 50 85 85 55" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M 180 170 C 195 130 190 85 155 55" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" fill="none"/>
+  
+  <!-- Leaves Left -->
+  <path d="M 68 150 Q 56 142 62 134 Q 72 138 68 150 Z" fill="#F59E0B"/>
+  <path d="M 58 126 Q 47 117 55 110 Q 64 116 58 126 Z" fill="#F59E0B"/>
+  <path d="M 57 100 Q 48 90 58 83 Q 66 91 57 100 Z" fill="#F59E0B"/>
+  <path d="M 67 76 Q 60 65 71 60 Q 77 70 67 76 Z" fill="#F59E0B"/>
+  
+  <!-- Leaves Right -->
+  <path d="M 172 150 Q 184 142 178 134 Q 168 138 172 150 Z" fill="#F59E0B"/>
+  <path d="M 182 126 Q 193 117 185 110 Q 176 116 182 126 Z" fill="#F59E0B"/>
+  <path d="M 183 100 Q 192 90 182 83 Q 174 91 183 100 Z" fill="#F59E0B"/>
+  <path d="M 173 76 Q 180 65 169 60 Q 163 70 173 76 Z" fill="#F59E0B"/>
+
+  <!-- Government Shield -->
+  <path d="M 120 62 L 155 76 V 118 C 155 145 120 166 120 166 C 120 166 85 145 85 118 V 76 Z" fill="#1E3A8A" stroke="#38BDF8" stroke-width="2.5"/>
+  <path d="M 120 66 L 150 78 V 116 C 150 140 120 159 120 159 C 120 159 90 140 90 116 V 78 Z" fill="#172554"/>
+
+  <!-- Pillars of Justice / Parliament Pillars -->
+  <rect x="100" y="98" width="6" height="34" rx="2" fill="#E2E8F0"/>
+  <rect x="117" y="94" width="6" height="38" rx="2" fill="#FFFFFF"/>
+  <rect x="134" y="98" width="6" height="34" rx="2" fill="#E2E8F0"/>
+
+  <!-- Pillar Pedestal & Pediment -->
+  <polygon points="120,80 94,92 146,92" fill="#F59E0B"/>
+  <rect x="94" y="132" width="52" height="5" rx="1.5" fill="#F59E0B"/>
+  <rect x="91" y="138" width="58" height="5" rx="1.5" fill="#E2E8F0"/>
+
+  <!-- Ashoka / Star of Excellence at top -->
+  <polygon points="120,44 123,52 131,52 124,57 127,65 120,60 113,65 116,57 109,52 117,52" fill="#F59E0B"/>
+
+  <!-- Circular text ribbon / banner -->
+  <rect x="74" y="180" width="92" height="22" rx="4" fill="#F59E0B"/>
+  <text x="120" y="195" font-family="'Inter', sans-serif" font-size="9" font-weight="800" text-anchor="middle" fill="#0F172A" letter-spacing="1.5">GOVERNMENT</text>
+  
+  <text x="120" y="212" font-family="'Inter', sans-serif" font-size="8" font-weight="600" text-anchor="middle" fill="#94A3B8" letter-spacing="0.5">PUBLIC SECTOR</text>
+</svg>
